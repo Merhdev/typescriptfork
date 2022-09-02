@@ -14,3 +14,5 @@ const user: User = {
   username: 'Hayes',
   id: 0,
 };
+
+console.log(user.name);
