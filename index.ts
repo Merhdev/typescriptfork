@@ -11,7 +11,7 @@ interface User {
 }
 
 const user: User = {
-  username: 'Hayes',
+  name: 100,
   id: 0,
 };
 
